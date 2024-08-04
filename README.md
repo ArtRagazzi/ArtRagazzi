@@ -24,3 +24,7 @@
 <a href = "mailto:ao.ragazzi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturragazzi/)
+
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/artragazzi/count.svg" alt="Visitor" title="Visitor"/>
+</div>
