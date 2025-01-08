@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Artur Ragazzi</h1>
-<h3 align="center">A Developer passionate about Android and Back-end development</h3>
 
-- 🌱 I’m currently learning **Kotlin, Compose**
-
-- 💬 Ask me about **Android**
-
+- 🌱 I’m currently learning **Angular, Koltin**
 ---
 
 <div>
 <h4>Tecnologies</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/angular.svg" width="40" height="40"/>	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>       
