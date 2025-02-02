@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Ragazzi</h1>
 
-- 💡 I’m currently learning **Kotlin, Java, React, Mobile**
+- 💡 I’m currently learning **Kotlin, Java, Angular, Mobile**
 ---
 
 <div>
