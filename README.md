@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Ragazzi</h1>
 
-- 💡 I’m currently learning **Java, Typescript, Angular, Python**
+- 💡 I’m currently learning **Java, Typescript, React, Python**
 ---
 
 <div>
